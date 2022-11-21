@@ -1,0 +1,63 @@
+{
+  "short_name": "React App",
+  "name": "Create React App Sample",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "landing_page_plain.png",
+      "type": "image/jpg"
+    },
+    {
+      "src": "Metarei_Logo_1K_Transparent.png",
+      "type": "image/png"
+    },
+    {
+      "src": "45615063.png",
+      "type": "image/png"
+    },
+    {
+      "src": "hand_palm_facedown.png",
+      "type": "image/png"
+    },
+    {
+      "src": "hand_palm_faceup.png",
+      "type": "image/png"
+    },
+    {
+      "src": "img_2.png",
+      "type": "image/png"
+    },
+    {
+      "src": "img_4.png",
+      "type": "image/png"
+    },
+    {
+      "src": "Carys_Lacey_CV_Gameart.PDF",
+      "type": "doc/pdf"
+    },
+    {
+      "src": "tc2.jpg",
+      "type": "image/jpg"
+    },
+    {
+      "src": "thomas-craven.pdf",
+      "type": "doc/pdf"
+    },
+    {
+      "src": "MetaRei Disclaimer.pdf",
+      "type": "doc/pdf"
+    },
+    {
+      "src": "Carys_Lacey_CV_Gameart.PDF",
+      "type": "doc/pdf"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
